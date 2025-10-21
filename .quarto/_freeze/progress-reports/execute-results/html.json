@@ -1,0 +1,15 @@
+{
+  "hash": "8834aa423e769357565e919c0a4383cc",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Weekly Progress Reports\"\n---\n\n# Progress Reports\n\nAll my weekly progress, problems, and plans logs.\n\n## Available Reports\n\n- [Week 1 - 20 Oct 2025](reports/251020_week1.html) • [PDF](reports/251020_week1.pdf) • [Word](reports/251020_week1.docx)",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

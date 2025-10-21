@@ -1,0 +1,22 @@
+{
+  "index.qmd": {
+    "index.html": "f37b151f",
+    "index.tex": "8ccfd13d",
+    "index.docx": "2a83ea5e"
+  },
+  "about.qmd": {
+    "about.html": "36dd06e0",
+    "about.tex": "a2555bdc",
+    "about.docx": "653b10b0"
+  },
+  "progress-reports.qmd": {
+    "progress-reports.html": "d292f3ad",
+    "progress-reports.tex": "ea004fed",
+    "progress-reports.docx": "ebbcb542"
+  },
+  "reports/251020_week1.qmd": {
+    "251020_week1.html": "6b60adca",
+    "251020_week1.tex": "1a3f7a67",
+    "251020_week1.docx": "9caec4c3"
+  }
+}

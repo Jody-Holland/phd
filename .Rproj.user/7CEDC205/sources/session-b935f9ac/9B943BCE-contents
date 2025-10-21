@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "PhD Progress Log"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: progress-reports.qmd
+        text: Progress Reports
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: minty
+    toc: true
+  pdf:
+    documentclass: scrartcl  # Modern KOMA-Script article
+    classoption: [11pt, twoside]
+    geometry: [a4paper, margin=2.5cm]
+    fontfamily: sans
+    fontsize: 11pt
+    linestretch: 1.1
+    colorlinks: true
+    linkcolor: blue
+    urlcolor: cyan
+  docx: default
+execute:
+  echo: true
+  warning: false

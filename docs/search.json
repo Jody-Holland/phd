@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "reports/251020_week1.html",
+    "href": "reports/251020_week1.html",
+    "title": "Week 1 Progress Report",
+    "section": "",
+    "text": "Moved into College and restarted work\nHave determiend what funding is available to me through my bursary (£75 a month for books, £3000 over the course for conferences, £500 a year for equipment).\n\nAlso some options for field work funding in SEA\n\nStarted Feasibility Report and made good progress\n\nFleshed out background section (500 words)\nHave aimed to produce a brief overview of the current “state of the science”\nPretty happy with the introduction\n\nBegan work on a conceptual framework to hypothesise what could induce a landscape to be more or less prone to local leakage\n\nEmphasised the context of the economic activities occurring\nExploring the concept of “Factor Mobility”\n\nA concept taken from New Economic Geography (Krugman etc.)\nDenotes the degree to which an activity/industry could move across borders and landscapes\nIncorporates both how mobile the workforce might be and how regionally specific a particular activity might be\n\nAlso examined how landscape topography could interact with local leakage propensity beyond factor mobility\n\nSpecifically the positioning on the protected area within the landscape\nPAs are often located in the most politically convenient places - not the most ecologically critical\nCould mean that there is little economic pressure on the periphery of projects\nCould also mean that the people living in the vicinity of the PA have little political or economic power to resist the imposition of a PA\n\n\nRead Dasguta’s Natural Capital\n\nNot too much that I hadn’t already been introduced to\nWas a pretty eloquent framing of ecological damage as a “tragedy of the commons” in absence of accurate pricing of natural captial\n\nStudied Brodie et al. (2023)\n\nPretty fascinating how they conclude that PAs can have positive impacts on biodiversity across a landscape\nNotably in the case of mammals they find that PAs could lead to safeguarded source populations\n\nThat would incur density driven dispersal of animals across a landscape, even if that landscape is degraded habitat\n\nThis could mean that even if we see elevated habitat destruction around a project there could nonetheless be positive spillovers for biodiversity in the landscape\n\nLand Sparing wins again?\n\n\nSet up Quarto website for progress tracking\n\nWhen new reports are made they are automatically rendered as html, word, and pdf formats and added to the site.\n\nBegan testing PACT V3 if it"
+  },
+  {
+    "objectID": "reports/251020_week1.html#progress-this-week",
+    "href": "reports/251020_week1.html#progress-this-week",
+    "title": "Week 1 Progress Report",
+    "section": "",
+    "text": "Moved into College and restarted work\nHave determiend what funding is available to me through my bursary (£75 a month for books, £3000 over the course for conferences, £500 a year for equipment).\n\nAlso some options for field work funding in SEA\n\nStarted Feasibility Report and made good progress\n\nFleshed out background section (500 words)\nHave aimed to produce a brief overview of the current “state of the science”\nPretty happy with the introduction\n\nBegan work on a conceptual framework to hypothesise what could induce a landscape to be more or less prone to local leakage\n\nEmphasised the context of the economic activities occurring\nExploring the concept of “Factor Mobility”\n\nA concept taken from New Economic Geography (Krugman etc.)\nDenotes the degree to which an activity/industry could move across borders and landscapes\nIncorporates both how mobile the workforce might be and how regionally specific a particular activity might be\n\nAlso examined how landscape topography could interact with local leakage propensity beyond factor mobility\n\nSpecifically the positioning on the protected area within the landscape\nPAs are often located in the most politically convenient places - not the most ecologically critical\nCould mean that there is little economic pressure on the periphery of projects\nCould also mean that the people living in the vicinity of the PA have little political or economic power to resist the imposition of a PA\n\n\nRead Dasguta’s Natural Capital\n\nNot too much that I hadn’t already been introduced to\nWas a pretty eloquent framing of ecological damage as a “tragedy of the commons” in absence of accurate pricing of natural captial\n\nStudied Brodie et al. (2023)\n\nPretty fascinating how they conclude that PAs can have positive impacts on biodiversity across a landscape\nNotably in the case of mammals they find that PAs could lead to safeguarded source populations\n\nThat would incur density driven dispersal of animals across a landscape, even if that landscape is degraded habitat\n\nThis could mean that even if we see elevated habitat destruction around a project there could nonetheless be positive spillovers for biodiversity in the landscape\n\nLand Sparing wins again?\n\n\nSet up Quarto website for progress tracking\n\nWhen new reports are made they are automatically rendered as html, word, and pdf formats and added to the site.\n\nBegan testing PACT V3 if it"
+  },
+  {
+    "objectID": "reports/251020_week1.html#problems-encountered",
+    "href": "reports/251020_week1.html#problems-encountered",
+    "title": "Week 1 Progress Report",
+    "section": "Problems Encountered",
+    "text": "Problems Encountered\n\nLearning curve with Quarto\nSetting up proper file organization"
+  },
+  {
+    "objectID": "reports/251020_week1.html#plans-for-next-week",
+    "href": "reports/251020_week1.html#plans-for-next-week",
+    "title": "Week 1 Progress Report",
+    "section": "Plans for Next Week",
+    "text": "Plans for Next Week\n\nCreate next weekly report\nAdd more content structure\nBegin detailed literature review"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "PhD Progress Log",
+    "section": "",
+    "text": "Welcome to my progress log for my PhD research."
+  },
+  {
+    "objectID": "index.html#quick-access",
+    "href": "index.html#quick-access",
+    "title": "PhD Progress Log",
+    "section": "Quick Access",
+    "text": "Quick Access\n\nView Progress Reports\nLatest Report\nDownload Latest as PDF"
+  },
+  {
+    "objectID": "index.html#about-this-site",
+    "href": "index.html#about-this-site",
+    "title": "PhD Progress Log",
+    "section": "About This Site",
+    "text": "About This Site\nThis site contains my weekly Progress, Problems, and Plans (PPP) reports. Each report is available online and can be downloaded as PDF or Word document."
+  },
+  {
+    "objectID": "index.html#recent-updates",
+    "href": "index.html#recent-updates",
+    "title": "PhD Progress Log",
+    "section": "Recent Updates",
+    "text": "Recent Updates\n\nWebsite established: October 2025\nFirst progress report logged"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "progress-reports.html",
+    "href": "progress-reports.html",
+    "title": "Weekly Progress Reports",
+    "section": "",
+    "text": "All my weekly progress, problems, and plans logs.\n\n\n\nWeek 1 - 20 Oct 2025 • PDF • Word"
+  },
+  {
+    "objectID": "progress-reports.html#available-reports",
+    "href": "progress-reports.html#available-reports",
+    "title": "Weekly Progress Reports",
+    "section": "",
+    "text": "Week 1 - 20 Oct 2025 • PDF • Word"
+  }
+]

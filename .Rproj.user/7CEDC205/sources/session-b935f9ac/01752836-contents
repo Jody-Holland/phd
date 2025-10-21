@@ -1,0 +1,84 @@
+---
+title: "Week 1 Progress Report"
+subtitle: "Getting Started"
+author: "Jody Holland"
+date: "October 20, 2025"
+format:
+  html:
+    toc: true
+  pdf:
+    toc: false
+  docx:
+    toc: false
+---
+
+## Progress This Week
+
+-   Moved into College and restarted work
+
+-   Have determiend what funding is available to me through my bursary (£75 a month for books, £3000 over the course for conferences, £500 a year for equipment).
+
+    -   Also some options for field work funding in SEA
+
+-   Started Feasibility Report and made good progress
+
+    -   Fleshed out background section (500 words)
+    -   Have aimed to produce a brief overview of the current "state of the science"
+    -   Pretty happy with the introduction
+
+-   Began work on a conceptual framework to hypothesise what could induce a landscape to be more or less prone to local leakage
+
+    -   Emphasised the context of the economic activities occurring
+    -   Exploring the concept of "Factor Mobility"
+        -    A concept taken from New Economic Geography (Krugman etc.)
+        -   Denotes the degree to which an activity/industry could move across borders and landscapes
+        -   Incorporates both how mobile the workforce might be and how regionally specific a particular activity might be
+    -   Also examined how landscape topography could interact with local leakage propensity beyond factor mobility
+        -   Specifically the positioning on the protected area within the landscape
+        -   PAs are often located in the most politically convenient places - not the most ecologically critical
+        -   Could mean that there is little economic pressure on the periphery of projects
+        -   Could also mean that the people living in the vicinity of the PA have little political or economic power to resist the imposition of a PA
+
+-   Read Dasguta's Natural Capital
+
+    -   Not too much that I hadn't already been introduced to
+    -   Was a pretty eloquent framing of ecological damage as a "tragedy of the commons" in absence of accurate pricing of natural captial
+
+-   Studied Brodie et al. (2023)
+
+    -   Pretty fascinating how they conclude that PAs can have positive impacts on biodiversity across a landscape
+    -   Notably in the case of mammals they find that PAs could lead to safeguarded source populations
+        -   That would incur density driven dispersal of animals across a landscape, even if that landscape is degraded habitat
+    -   This could mean that even if we see elevated habitat destruction around a project there could nonetheless be positive spillovers for biodiversity in the landscape
+        -   Land Sparing wins again?
+
+-   Set up Quarto website for progress tracking
+
+    -   When new reports are made they are automatically rendered as html, word, and pdf formats and added to the site.
+
+-   Began testing PACT V3 if it
+
+## Problems Encountered
+
+-   Learning curve with Quarto
+-   Setting up proper file organization
+
+## Plans for Next Week
+
+-   Create next weekly report
+-   Add more content structure
+-   Begin detailed literature review
+
+# Picture of the Week
+
+![A picture I snapped of the Trinity Great Court Run](images/clipboard-3378194245.jpeg){fig-align="center" width="300"}
+
+# Download This Report
+
+-   [PDF](251020_week1.pdf)
+-   [Word](251020_week1.docx)
+-   [Back to All Reports](../progress-reports.html)
+
+------------------------------------------------------------------------
+
+*First progress report*

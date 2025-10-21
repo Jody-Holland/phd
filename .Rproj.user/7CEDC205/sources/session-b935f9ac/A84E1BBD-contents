@@ -1,0 +1,59 @@
+---
+title: "Weekly Progress Reports"
+---
+
+# Progress Reports
+
+All my weekly progress, problems, and plans logs.
+
+```{r}
+#| echo: false
+#| results: asis
+
+# Helper function to list reports
+list_reports <- function() {
+  files <- list.files("reports", pattern = "\\.qmd$", full.names = FALSE)
+  
+  if (length(files) == 0) {
+    cat("No reports available yet. Check back soon!\n")
+    return(invisible())
+  }
+  
+  reports <- sapply(files, function(f) {
+    # Remove .qmd extension
+    base_name <- tools::file_path_sans_ext(f)
+    
+    parts <- unlist(strsplit(base_name, "_"))
+    date_part <- parts[1]
+    week_part <- gsub("week", "Week ", parts[2])
+    
+    # Parse date with your preferred format: "251020" = 2025-10-20
+    # Using "%y%m%d" for year-month-day format
+    date_formatted <- format(as.Date(date_part, format = "%y%m%d"), "%d %b %Y")
+    
+    paste0(week_part, " - ", date_formatted)
+  })
+  names(reports) <- files
+  return(reports)
+}
+
+# Get and display reports
+reports_list <- list_reports()
+
+if (length(reports_list) > 0) {
+  # Sort by filename (newest first)
+  sorted_names <- names(reports_list)[order(names(reports_list), decreasing = TRUE)]
+  sorted_reports <- reports_list[sorted_names]
+  
+  cat("## Available Reports\n\n")
+  
+  for (file in sorted_names) {
+    base_name <- tools::file_path_sans_ext(file)
+    display_name <- sorted_reports[file]
+    
+    cat("- [", display_name, "](reports/", base_name, ".html) • ", 
+        "[PDF](reports/", base_name, ".pdf) • ",
+        "[Word](reports/", base_name, ".docx)\n", sep = "")
+  }
+}
+```
