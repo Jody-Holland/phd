@@ -2,4 +2,12 @@
 title: "About"
 ---
 
-About this site
+<center>
+
+![](images/clipboard-3218425402.jpeg){width="300"}
+
+</center>
+
+Hiya, I'm Jody - a PhD student at the University of Cambridge, currently working on a project to better understand leakage from tropical forest conservation actions, as well as potential pathways to mitigate against it. My academic background is in Policy and Sustainable Development, having studied at the University of Sheffield, Rijksuniversiteit Groningen, and University of Las Palmas de Gran Canaria
+
+This site is currently being developed to document my PhD research journey. Here, I will share weekly updates on my progress, challenges faced, and plans for the upcoming week. In the future, I aim to expand this site to include detailed project documentation, research findings, and other relevant resources. Further, I may adapt this site to general page for my academic and research activities.
