@@ -30,7 +30,7 @@ format:
 
     -   Emphasised the context of the economic activities occurring
     -   Exploring the concept of "Factor Mobility"
-        -    A concept taken from New Economic Geography (Krugman etc.)
+        -   A concept taken from New Economic Geography (Krugman etc.)
         -   Denotes the degree to which an activity/industry could move across borders and landscapes
         -   Incorporates both how mobile the workforce might be and how regionally specific a particular activity might be
     -   Also examined how landscape topography could interact with local leakage propensity beyond factor mobility

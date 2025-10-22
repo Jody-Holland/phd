@@ -27,7 +27,7 @@ format:
     colorlinks: true
     linkcolor: blue
     urlcolor: cyan
-  docx: default
+  # docx: default
 execute:
   echo: true
   warning: false
