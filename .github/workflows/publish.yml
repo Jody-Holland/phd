@@ -19,8 +19,10 @@ jobs:
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Install TinyTeX
-        uses: quarto-dev/quarto-actions/texlive@v2
+      - name: Install TinyTeX for PDF rendering
+        uses: r-lib/actions/setup-tinytex@v2
+        with:
+          version: latest
 
       - name: Install required R packages
         run: |
