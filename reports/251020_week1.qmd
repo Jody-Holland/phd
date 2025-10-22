@@ -55,6 +55,14 @@ format:
     -   This could mean that even if we see elevated habitat destruction around a project there could nonetheless be positive spillovers for biodiversity in the landscape
         -   Land Sparing wins again?
 
+-   Studied Lui and Coomes (2015)
+
+    -   They find no evidence for local leakage
+
+    -   Some issues with their approach (no dynamic baselines)
+
+    -   Also they don't explore any link between the relative rate of additionality within projects and any rate of leakage in the buffer
+
 -   Set up Quarto website for progress tracking
 
     -   When new reports are made they are automatically rendered as html, word, and pdf formats and added to the site.
@@ -67,16 +75,70 @@ format:
 
     -   Started running PACT V3 across 35 placebo projects
 
+-   Finished up some of the residual tasks for REDD+ paper
+
+-   Began running carbon density analysis on Gola Buffer villages
+
+-   Got my head around the Zoology PhD training log
+
+-   Had a look at the Choice of Advisors page
+
+    -   Currently looking at Lynn Dicks and Ed Turner
+
 ## Problems Encountered
 
--   Learning curve with Quarto
--   Setting up proper file organization
+-   College is taking some time paying me my stipend, hopefully will be resolved soon (I have some savings to dip into so not an issue
+-   Due to not having accommodation, I was unable to attend the induction day, although I have made up for this by attending the safety workshop later, I have yet to meet any other Zoology PhD students other than Robin in Rob's group
+-   I'm having difficulties making sure my Feasibility Report sections are succinct and direct.
+    -   Specifically, what is the core message I want to communicate in the background section?
+    -   500 words to summarise the "state of science" around tropical forest leakage
+    -   Struggling to maintain *message discipline*
+    -   Also want to find space to add in 'Biodiversity Leak' paper
+-   With the section on research plan, I'm trying to neatly split the CLOCs and BLOCs concept into individual separated studies
+    -   Should one chapter be about the nuances and trades offs in building the map and another be its utilities and uses.
+    -   This is inspired by Ali's approach to LIFE
+        -   Paper on how it works
+        -   Paper demonstrating it's uses
+    -   For methods, I'm struggling to determine how detailed I need to be
+        -   Word limitations are significant \*(500-100)
+        -   I need to determine what isa the appropriate and realistic experimental design for local leakage
+        -   I think I will include my conceptual framework into the report
+-   Resources and Costs section
+    -   A bit confusing, costs at the moment are minimal
+    -   But this could change if I do field work and an exchange
+    -   I also plan to attend conferences (BES ect.) should I put this down
+-   Training
+    -   Need to find training courses relevant to my aims
+        -   Hoping to find public speaking training, as well as econometric refreshers
+        -   Also looking into TESSERA workshops and if they count as training
 
 ## Plans for Next Week
 
--   Create next weekly report
--   Add more content structure
--   Begin detailed literature review
+-   Finish Research Aims section of Feasibility Report
+
+    -   Make a flow chart outlining the local leakage methods
+
+    -   Make a secondary flowchart outlining CLOCs and BLOCs
+
+-   Sign onto one training course to happen in November
+
+-   Draft a short field work idea to have in the back-pocket
+
+-   Arrange TESSERA training workshop
+
+-   Produce the placebo results of PACT to allow us to know its relative predictive accuracy around the world (for SI of chapter 1)
+
+-   Identify the set of REDD+ project and their metadata to run leakage analysis on
+
+-   Determine the metrics to be used for damage in leakage analysis
+
+    -   Forest cover
+
+    -   Extinction Risk
+
+    -   Forest Carbon
+
+-   
 
 # Picture of the Week
 

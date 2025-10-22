@@ -23,7 +23,7 @@ latest <- get_latest_report()
 cat("- [View Progress Reports](progress-reports.html)\n")
 if (!is.null(latest)) {
   cat("- [Latest Report](reports/",latest, ".html)\n", sep = "")
-  cat("- [Download Latest as PDF](reports/", latest,".pdf)\n", sep = "")
+  cat("- [Download Latest as Word Document](reports/", latest,".docx)\n", sep = "")
 } else {
   cat("- No reports available yet\n")
 }
