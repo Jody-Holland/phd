@@ -120,11 +120,11 @@ format:
 
     -   Make a secondary flowchart outlining CLOCs and BLOCs
 
--   Sign onto one training course to happen in November
+-   Sign onto a training course to happen in November
 
 -   Draft a short field work idea to have in the back-pocket
 
--   Arrange TESSERA training workshop
+-   Arrange TESSERA training workshop (talk to Keshav at next weeks lab lunch)
 
 -   Produce the placebo results of PACT to allow us to know its relative predictive accuracy around the world (for SI of chapter 1)
 
@@ -138,7 +138,23 @@ format:
 
     -   Forest Carbon
 
--   
+-   Study the following papers for potential reference and guidance for the Feasibility Report.
+
+    Balmford, A., Green, R., & Phalan, B. (2015). Land for Food & Land for Nature? *Daedalus*, *144*(4), 57–75. <https://doi.org/10.1162/DAED_a_00354>
+
+    Bitariho, R., Akampurira, E., & Mugerwa, B. (2022). Long-term funding of community projects has contributed to mitigation of illegal activities within a premier African protected area, Bwindi impenetrable National Park, Uganda. *Conservation Science and Practice*, *4*(9), e12761. <https://doi.org/10.1111/csp2.12761>
+
+    Fuller, C., Ondei, S., Brook, B. W., & Buettel, J. C. (2020). Protected-area planning in the Brazilian Amazon should prioritize additionality and permanence, not leakage mitigation. *Biological Conservation*, *248*, 108673. <https://doi.org/10.1016/j.biocon.2020.108673>
+
+    Gilroy, J. J., Edwards, F. A., Medina Uribe, C. A. M., Haugaasen, T., & Edwards, D. P. (2014). Surrounding habitats mediate the trade‐off between land‐sharing and land-sparing agriculture in the Tropics. *Journal of Applied Ecology*, *51*, 1337–1346. <https://doi.org/10.1111/1365-2664.12284>
+
+    Malan, M., Carmenta, R., Gsottbauer, E., Hofman, P., Kontoleon, A., Swinfield, T., & Voors, M. (2024). Evaluating the impacts of a large-scale voluntary REDD+ project in Sierra Leone. *Nature Sustainability*, *7*(2), 120–129. <https://doi.org/10.1038/s41893-023-01256-9>
+
+    Pendrill, F., Persson, U. M., Godar, J., & Kastner, T. (2019). Deforestation displaced: Trade in forest-risk commodities and the prospects for a global forest transition. *Environmental Research Letters*, *14*(5), 055003. <https://doi.org/10.1088/1748-9326/ab0d41>
+
+    Shahi, K., Khanal, G., Jha, R. R., Bhusal, P., & Silwal, T. (2023). What drives local communities’ attitudes toward the protected area? Insights from Bardia National Park, Nepal. *Conservation Science and Practice*, *5*(2), e12883. <https://doi.org/10.1111/csp2.12883>
+
+    Silwal, T., Devkota, B. P., Poudel, P., & Morgan, M. (2022). Do Buffer Zone Programs Improve Local Livelihoods and Support Biodiversity Conservation? The Case of Sagarmatha National Park, Nepal. *Tropical Conservation Science*, *15*, 19400829221106670. <https://doi.org/10.1177/19400829221106670>
 
 # Picture of the Week
 
