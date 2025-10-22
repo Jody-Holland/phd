@@ -28,7 +28,7 @@ format:
     css: styles.css
     toc: true
     toc-depth: 3
-    number-sections: true
+    number-sections: false
     code-link: true
     
   pdf:
@@ -41,9 +41,9 @@ format:
       - left=2.5cm
       - right=2.5cm
     toc: false
-    number-sections: true
+    number-sections: false
     linestretch: 1.25
     
   docx:
     toc: false
-    number-sections: true
+    number-sections: false

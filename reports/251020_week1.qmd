@@ -40,9 +40,13 @@ format:
 
 -   Started Feasibility Report plan and made good progress
 
-    -   Fleshed plan out background section (500 words)
+    -   Fleshed out background section (500 words)
     -   Have aimed to produce a brief overview of the current "state of the science"
     -   Pretty happy with the introduction
+
+-   Made a flow chart outlining the local leakage methods
+
+    -   [PDF of flowchart is here](files/chapter1_plan.pdf)
 
 -   Began work on a conceptual framework to hypothesise what could induce a landscape to be more or less prone to local leakage
 
@@ -130,8 +134,6 @@ format:
 ## Plans for Next Week
 
 -   Finish Research Aims section of Feasibility Report
-
-    -   Make a flow chart outlining the local leakage methods
 
     -   Make a secondary flowchart outlining CLOCs and BLOCs
 
