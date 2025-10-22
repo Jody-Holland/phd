@@ -4,11 +4,6 @@ on:
   push:
     branches: [main]
 
-permissions:
-  contents: write
-  pages: write
-  id-token: write
-
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
@@ -16,31 +11,29 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Setup R
+        uses: r-lib/actions/setup-r@v2
+        with:
+          use-public-rspm: true
+
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
       - name: Install TinyTeX for PDF rendering
         uses: r-lib/actions/setup-tinytex@v2
-        
+        with:
+          version: latest
+
       - name: Install required R packages
         run: |
           Rscript -e 'install.packages(c("rmarkdown", "knitr"))'
         shell: bash
 
-      - name: Render Quarto site (all formats)
+      - name: Render Quarto site
         run: quarto render
-
-      - name: Verify output
-        run: |
-          echo "HTML files:"
-          find docs/ -name "*.html" | head -10
-          echo "PDF files:"
-          find docs/ -name "*.pdf" | head -10
-          echo "✅ All files rendered successfully!"
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./docs
-          force_orphan: true
