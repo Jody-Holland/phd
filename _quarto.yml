@@ -12,22 +12,39 @@ website:
         text: Progress Reports
       - href: about.qmd
         text: About
+    right:
+      - icon: github
+        href: https://github.com/Jody-Holland
+      - icon: search
+    website:
+  # ... your existing config
+  page-footer: 
+    left: "© 2025 Jody Holland"
+    center: "PhD Progress Log"
+    right: "Last updated: `r format(Sys.Date(), '%B %d, %Y')`"
 
 format:
   html:
-    theme: minty
+    theme: [minty, flatly, cosmo] 
+    css: styles.css
     toc: true
+    toc-depth: 3
+    number-sections: true
+    code-link: true
+    
   pdf:
-    documentclass: scrartcl  # Modern KOMA-Script article
-    classoption: [11pt, twoside]
-    geometry: [a4paper, margin=2.5cm]
-    fontfamily: sans
+    documentclass: article
+    papersize: a4
     fontsize: 11pt
-    linestretch: 1.1
-    colorlinks: true
-    linkcolor: blue
-    urlcolor: cyan
-  # docx: default
-execute:
-  echo: true
-  warning: false
+    geometry:
+      - top=2.5cm
+      - bottom=2.5cm
+      - left=2.5cm
+      - right=2.5cm
+    toc: false
+    number-sections: true
+    linestretch: 1.25
+    
+  docx:
+    toc: false
+    number-sections: true
