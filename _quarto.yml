@@ -21,7 +21,6 @@ website:
   page-footer: 
     left: "© 2025 Jody Holland"
     center: "PhD Progress Log"
-    right: "Last updated: `r format(Sys.Date(), '%B %d, %Y')`"
 
 format:
   html:
