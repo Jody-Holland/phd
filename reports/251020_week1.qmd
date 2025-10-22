@@ -16,13 +16,16 @@ format:
 
 -   Moved into College and restarted work
 
--   Have determiend what funding is available to me through my bursary (£75 a month for books, £3000 over the course for conferences, £500 a year for equipment).
+-   Have determined what funding is available to me through my bursary (£75 a month for books, £3000 over the course for conferences, £500 a year for equipment).
 
-    -   Also some options for field work funding in SEA
+    -   Also some osptions for field work funding in SEA
+        -   Notably the Selena Sun Travel and Research Fund from Trinity
+        -   Deadline for Applications is the 13th February 2026
+        -   Covers China, Thailand, Vietnam, Laos, Myanmar (bad idea!), Malaysia, Indonesia, the Philippines ect.
 
--   Started Feasibility Report and made good progress
+-   Started Feasibility Report plan and made good progress
 
-    -   Fleshed out background section (500 words)
+    -   Fleshed plan out background section (500 words)
     -   Have aimed to produce a brief overview of the current "state of the science"
     -   Pretty happy with the introduction
 
@@ -39,7 +42,7 @@ format:
         -   Could mean that there is little economic pressure on the periphery of projects
         -   Could also mean that the people living in the vicinity of the PA have little political or economic power to resist the imposition of a PA
 
--   Read Dasguta's Natural Capital
+-   Read Dasguta's On Natural Capital
 
     -   Not too much that I hadn't already been introduced to
     -   Was a pretty eloquent framing of ecological damage as a "tragedy of the commons" in absence of accurate pricing of natural captial
@@ -56,7 +59,13 @@ format:
 
     -   When new reports are made they are automatically rendered as html, word, and pdf formats and added to the site.
 
--   Began testing PACT V3 if it
+-   Began testing PACT V3 to see if it it fungible and robust
+
+    -   Checked if the sum of additionality from Gola North, Central and South was equal to the additionality reading from running the project as a whole
+
+        -   96.4% the same
+
+    -   Started running PACT V3 across 35 placebo projects
 
 ## Problems Encountered
 
