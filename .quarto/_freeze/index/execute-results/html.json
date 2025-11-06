@@ -1,9 +1,11 @@
 {
-  "hash": "0d51ba1e3062185d399062dcfdad0e83",
+  "hash": "aae907147a01835386404a3a5bec1580",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"PhD Progress Log\"\n---\nWelcome to my progress log for my PhD research.\n\n## Quick Access\n\n- [View Progress Reports](progress-reports.html)\n- [Latest Report](reports/251020_week1.html)\n- [Download Latest as PDF](reports/251020_week1.pdf)\n\n## About This Site\nThis site contains my weekly Progress, Problems, and Plans (PPP) reports. Each report is available online and can be downloaded as PDF or Word document.\n\n## Recent Updates\n- Website established: October 2025\n- First progress report logged",
-    "supporting": [],
+    "markdown": "---\ntitle: \"PhD Progress Log\"\n---\nWelcome to my progress log for my PhD research.\n\n## Quick Access\n\n- [View Progress Reports](progress-reports.html)\n- [Latest Report](reports/251106_week3.html)\n- [Download Latest as Word Document](reports/251106_week3.docx)\n\n## About This Site\nThis site contains my weekly Progress, Problems, and Plans (PPP) reports. Each report is available online and can be downloaded as PDF or Word document.\n\n## Recent Updates\n- Website established: October 2025\n- First progress report logged",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

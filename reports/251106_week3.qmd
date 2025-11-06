@@ -1,5 +1,5 @@
 ---
-title: "Week 2 Progress Report"
+title: "Week 3 Progress Report"
 subtitle: "Revised Reports"
 author: "Jody Holland"
 date: "November 06, 2025"
@@ -57,7 +57,7 @@ To test these hypothesised pathways, data on the local economies of landscapes w
 
 ![](images/clipboard-263670576.png)
 
-Additionally, I have developed a more computationally efficient version of the find_potential_matches script used in PACT. The original was too intensive for the large-scale pixel matching required for this chapter, especially on a shared resource like Sherwood. A flowchart outlining the new approach can be seen [here](build_m.png).
+Additionally, I have developed a more computationally efficient version of the find_potential_matches script used in PACT. The original was too intensive for the large-scale pixel matching required for this chapter, especially on a shared resource like Sherwood. A flowchart outlining the new approach can be seen [here](images/build_m.png).
 
 Finally, the main draft of my feasibility report is largely complete and can be accessed [here](https://universityofcambridgecloud-my.sharepoint.com/:w:/g/personal/jh2589_cam_ac_uk/EQEyQXRg9ctDhhbhwKabcOEBm7NT-saiZQnxcg4mlevDhw?e=X0fJxz). I would appreciate any feedback you may have on its content and structure.
 
@@ -88,8 +88,8 @@ To this end, I will need to determine which classification approach is most effe
 
 # Download This Report
 
--   [PDF](251106_week1.pdf)
--   [Word](251106_week1.docx)
+-   [PDF](251106_week3.pdf)
+-   [Word](251106_week3.docx)
 -   [Back to All Reports](../progress-reports.html)
 
 ------------------------------------------------------------------------
