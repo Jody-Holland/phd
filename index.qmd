@@ -13,7 +13,8 @@ get_latest_report <- function() {
   if (length(files) == 0) {
     return(NULL)
   }
-  latest_file <- files[which.max(file.info(file.path("reports", files))$mtime)]
+  # file with the largest initial 6 digits in the filename assumed to be the latest
+  latest_file <- files[which.max(as.numeric(sub("_.*", "", files)))]
   base_name <- tools::file_path_sans_ext(latest_file)
   return(base_name)
 }
