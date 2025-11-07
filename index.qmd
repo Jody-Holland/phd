@@ -36,3 +36,5 @@ This site contains my weekly Progress, Problems, and Plans (PPP) reports. Each r
 ## Recent Updates
 - Website established: October 2025
 - First progress report logged
+- Second progress report logged
+- Latest report tool fixed
