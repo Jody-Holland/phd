@@ -24,7 +24,7 @@ website:
 
 format:
   html:
-    theme: [minty, flatly, cosmo] 
+    theme: quartz
     css: styles.css
     toc: true
     toc-depth: 3
